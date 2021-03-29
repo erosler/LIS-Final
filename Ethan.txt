@@ -10,8 +10,8 @@
   <center>
   <ul id="navbar">
       <li><a href="index.html">Who is Ethan?</a></li>
-      <li><a href="Cinnamon buns.txt">Cinnamon buns</a></li>
-     <li><a href="Video Games.txt">Video Games</a></li>
+      <li><a href="Cinnamonbuns.txt">Cinnamon buns</a></li>
+     <li><a href="VideoGames.txt">Video Games</a></li>
     </ul>
   </center>
   <center>
