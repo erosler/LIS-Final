@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <title>Ethan Rosler - Cinnamon buns</title>
+
+  <center>
+  <ul id="navbar">
+      <li><a href="Ethan.txt">Who is Ethan?</a></li>
+      <li><a href="Cinnamon buns.txt">Cinnamon buns</a></li>
+     <li><a href="Video games.txt">Video Games</a></li>
+    </ul>
+  </center>
+  <center>
+<body>
+    <h1><span>Cinnamon buns!</span></h1>
+  <h2><span>
+  Why cinnamon buns?
+</span></h2>
+<p> Answer: I simply do not have anything else to talk about. I really do love cinnamon buns though so if you'd like to go have some, visit the cinnabon website! <a href="https://www.cinnabon.com/"> Yummy!</a></p>
+ 
+  </body>
+  </center>
+</html>

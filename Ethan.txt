@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <title>Ethan Rosler - LIS final</title>
+    
+    <link rel="stylesheet" href="styles.css">
+    
+  
+  </head>  
+  <center>
+  <ul id="navbar">
+      <li><a href="index.html">Who is Ethan?</a></li>
+      <li><a href="Cinnamon buns.txt">Cinnamon buns</a></li>
+     <li><a href="Video Games.txt">Video Games</a></li>
+    </ul>
+  </center>
+  <center>
+<body>
+    <h1><span>About me</span></h1>
+  <h2><span>
+  Who is Ethan Rosler? 
+</span></h2>
+  <div>
+    
+<img src="https://www.facebook.com/photo?fbid=1444404665740212&set=a.324705431043480" alt="Picture of me" width= "309" height= "309">
+    
+    
+  </div> 
+  </body>
+  </center>
+</html>
+     
